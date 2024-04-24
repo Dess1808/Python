@@ -1,3 +1,4 @@
 ##arquivos ignore
 
 .bashrc
+.DS_Store
