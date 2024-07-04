@@ -3,3 +3,6 @@
 .bashrc
 .DS_Store
 code-c.code-workspace
+
+##folders 
+First_Project/__pycache__
